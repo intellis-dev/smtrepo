@@ -2,9 +2,9 @@
 
    {
     
-     "packagename": "com.transitin.trackmytrain",
+     "pkg": "com.transitin.trackmytrain",
 
-    "versioncode": 63,
+    "lver": 63,
 
     "url":"https://github.com/intellis-dev/smtrepo/raw/main/app.apk",
 
