@@ -1,14 +1,16 @@
 [
 
-   { "packagename": "com.shiva.haraharamahadeva",
+   {
+    
+     "packagename": "com.transitin.trackmytrain",
 
-   "versioncode": "63",
+    "versioncode": 63,
 
     "url":"https://github.com/intellis-dev/smtrepo/raw/main/app.apk",
 
-    "updateplaypriority": "must",
+    "minver": 63,
 
-    "isinstore": "true"
+    "isinstore": true
 
    }
 ]
