@@ -4,11 +4,11 @@
     
      "pkg": "com.transitin.trackmytrain",
 
-    "latestver": 64,
+    "latestver": 67,
 
     "url":"https://github.com/intellis-dev/smtrepo/raw/main/app.apk",
 
-    "minver": 64,
+    "minver": 67,
 
     "isinstore": true,
       
