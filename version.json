@@ -12,7 +12,12 @@
 
     "isinstore": true,
       
-    "currplaylink": "https://play.google.com/store/apps/details?id=com.transitin.trackmytrain"
+    "currplaylink": "https://play.google.com/store/apps/details?id=com.transitin.trackmytrain",
+      
+      "shownames": true,
+      
+      
+      "pnrserv":false
 
    }
 ]
